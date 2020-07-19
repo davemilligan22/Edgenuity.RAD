@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Edgenuity.RAD.Domain.Models\Edgenuity.RAD.Domain.Models.csproj" />
+  </ItemGroup>
+
+</Project>
